@@ -9,6 +9,8 @@ namespace ConsoleApp
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Test");
+
+            Console.WriteLine("这是我的第一个控制台程序！");
         }
     }
 }
